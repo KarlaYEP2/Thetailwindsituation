@@ -1,6 +1,9 @@
-# Portfoliov2
+# Portfolio site using tailwind
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
+with tailwindcss and flowbite
+![alt text](image.png)
+![alt text](image-1.png)
 
 ## Development server
 

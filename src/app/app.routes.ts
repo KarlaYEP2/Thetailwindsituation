@@ -5,6 +5,7 @@ import { TimelineComponent } from './Pages/timeline/timeline.component';
 
 export const routes: Routes = [
   { path: '', component: HomeComponent, title: 'Home page' },
+  { path: '*', component: HomeComponent, title: 'Home page' },
   { path: 'languages', component: LanguagesComponent },
   { path: 'timeline', component: TimelineComponent },
 ];
